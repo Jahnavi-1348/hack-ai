@@ -1,5 +1,5 @@
 # hack-ai
-a web-based tool developed during a 24-hour hackathon.It empowers individuals to recognize potential signs of gaslighting or emotional abuse by analyzing user-provided text. It also assesses the intensity of the behavior and offers supportive resources for mental health and recovery.
+a web-based tool developed during a 48-hour hackathon.It empowers individuals to recognize potential signs of gaslighting or emotional abuse by analyzing user-provided text. It also assesses the intensity of the behavior and offers supportive resources for mental health and recovery.
 
 Tech Stack
 * Python (backend logic and ML processing)
